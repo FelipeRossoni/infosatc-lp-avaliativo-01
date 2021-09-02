@@ -1,0 +1,6 @@
+altura = float(input("Digite a altura da parede em metros: "))
+comprimento = float(input("Digite o comprimento da parede em metros: "))
+area = (comprimento*altura)
+balde = (area/10.8)
+preco = (balde*107)
+print("Um balde completo de tinta pinta 10,8 metros, portanto:\nQuantidade de latas à serem compradas: {}. \nPreço total: {} Reais.".format(balde,preco))
