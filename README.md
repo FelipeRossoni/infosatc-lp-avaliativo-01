@@ -9,5 +9,5 @@
 Atividade avaliativa proposta em sala.<br>
 Foi usada a linguagem Python, e usado o editor Visual Studio Code.<br>
 Foi usada a licença MIT.<br>
-<img align=center src="https://tenor.com/view/luffy-smile-luffy-giggle-one-piece-luffy-gif-21582589" />
+<img align=center src="https://tenor.com/view/one-piece-anime-manga-series-luffy-smiling-gif-17594271" width=200 height=200 />
 
