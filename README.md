@@ -3,7 +3,7 @@
 # I'm Felipe
 :computer:I'm a student of the satc computer technician course. <br>
 :house_with_garden: I’m from Brazil. <br>
-:books: I’m currently learning Python & html. 
+:books: I’m currently learning Python & HTML. 
 
 # Projeto
 Atividade avaliativa proposta em sala.<br>
