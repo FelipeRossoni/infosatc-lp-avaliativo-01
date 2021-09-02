@@ -1,0 +1,8 @@
+total = float(input("Parabéns! Vocês ganharam o prêmio da loteria, digitem o valor do prêmio: "))
+imposto = (total*0.07)
+novototal = (total-imposto)
+print("O preço após o desconto de impostos ficou {} Reais.".format(novototal))
+amigo1 = (novototal*0.46)
+amigo2 = (novototal*0.32)
+amigo3 = (novototal*0.15)
+print("O primeiro ganhador ficou com {}`Reais.\nO segundo ganhador ficou com {} Reais. \nO terceiro ganhador ficou com {} Reais. ".format(amigo1,amigo2,amigo3))
