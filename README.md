@@ -1,6 +1,6 @@
 # infosatc-lp-avaliativo-01
 <p align=center>
-<img src="logosatc.png" width=600 height=400>
+<img src="logosatc.png" width=600 height=200>
 </p>
 
 # I'm Felipe
