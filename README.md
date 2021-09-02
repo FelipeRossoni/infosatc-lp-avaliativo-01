@@ -13,5 +13,5 @@
 :snake:Foi usada a linguagem Python, e usado o editor Visual Studio Code.<br>
 	:shamrock:Foi usada a licença MIT.<br>
 <p align=center>
-<img src="https://tenor.com/view/luffy-smile-luffy-giggle-one-piece-luffy-gif-21582589.gif" width=200 height=200 /> </p>
+<img src="luffy.gif" width=250 height=120 /> </p>
 
