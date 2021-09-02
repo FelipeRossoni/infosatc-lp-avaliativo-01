@@ -1,4 +1,7 @@
 # infosatc-lp-avaliativo-01
+<p align=center>
+<img src="logosatc.png">
+</p>
 
 # I'm Felipe
 :computer:I'm a student of the satc computer technician course. <br>
