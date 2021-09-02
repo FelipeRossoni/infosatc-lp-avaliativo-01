@@ -8,6 +8,6 @@
 # Projeto
 Atividade avaliativa proposta em sala.<br>
 Foi usada a linguagem Python, e usado o editor Visual Studio Code.<br>
-Foi usada a licença MiT.
-<img align=center src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
+Foi usada a licença MIT.<br>
+<img align=center src="https://tenor.com/view/luffy-smile-luffy-giggle-one-piece-luffy-gif-21582589" />
 
