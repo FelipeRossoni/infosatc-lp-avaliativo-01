@@ -13,5 +13,5 @@
 :snake:Foi usada a linguagem Python, e usado o editor Visual Studio Code.<br>
 	:shamrock:Foi usada a licença MIT.<br>
 <p align=center>
-<img src="luffy.gif" width=250 height=120 /> </p>
+<img src="luffy.gif" width=300 height=200 /> </p>
 
