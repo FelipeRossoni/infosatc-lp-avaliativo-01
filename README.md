@@ -6,7 +6,7 @@
 # I'm Felipe
 :computer: Curso: Curso técnico de informática. <br>
 :bomb: Disciplina: Linguagem de programação.  <br>
-:cherry_blossom: Ano : 2021
+:spider_web: Ano : 2021
 
 # Projeto
 Atividade avaliativa proposta em sala.<br>
