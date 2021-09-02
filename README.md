@@ -4,9 +4,9 @@
 </p>
 
 # I'm Felipe
-:computer:I'm a student of the satc computer technician course. <br>
-:house_with_garden: I’m from Brazil. <br>
-:books: I’m currently learning Python & HTML. 
+:computer: Curso: Curso técnico de informática. <br>
+:bomb: Disciplina: Linguagem de programação.  <br>
+:cherry_blossom: Ano : 2021
 
 # Projeto
 Atividade avaliativa proposta em sala.<br>
