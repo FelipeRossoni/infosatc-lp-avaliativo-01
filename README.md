@@ -1,7 +1,5 @@
 # infosatc-lp-avaliativo-01
-<p align=center>
-<img src="logosatc.png" width=600 height=200>
-</p>
+<img src="logosatc.png" width=300 height=200>
 
 # I'm Felipe
 :computer: Curso: Curso técnico de informática. <br>
